@@ -1,0 +1,16 @@
+a {
+    cursor:progress;
+}
+
+a:visited {
+    color: aquamarine;
+}
+
+a:active {
+    color: red;
+}
+
+a:hover {
+    background-color: black;
+    color: white;
+}
